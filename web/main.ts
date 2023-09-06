@@ -1,5 +1,5 @@
 
-import * as wasm from '../pkg/{{project-name}}';
+import * as wasm from '../pkg/{{crate_name}}';
 
 // import('../pkg/hello_rust_wasm').catch(e => console.error("Error importing `index.js`:", e));
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
