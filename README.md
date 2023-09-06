@@ -19,7 +19,7 @@
 ### 使用 `cargo generate` 克隆模板
 
 ```
- cargo generate https://github.com/damiduo/wasm-vite-template.git --name hello-vite-wasm
+  cargo generate --git https://github.com/damiduo/wasm-vite-template.git --name hello-vite-wasm
 ```
 --name 为项目文件名
 
