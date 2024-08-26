@@ -12,7 +12,7 @@
 
 1. 安装rust，https://www.rust-lang.org/tools/install
 2. 安装wasm-pack: `cargo install wasm-pack`
-3. 安装cargo-generat `cargo install cargo-generat`
+3. 安装cargo-generat `cargo install cargo-generate`
 
 ## 🚴 使用
 
